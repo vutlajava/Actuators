@@ -10,11 +10,7 @@ public class ActuatorsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ActuatorsApplication.class, args);
 		
-		System.out.println("Updated code +++++ ");
-		System.out.println("Updated code +++++ ");
-		System.out.println("Updated code +++++ ");
-		System.out.println("Updated code +++++ ");
-		System.out.println("Updated code +++++ ");
+		
 		
 		
 		
