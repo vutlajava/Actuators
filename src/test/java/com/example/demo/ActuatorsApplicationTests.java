@@ -8,6 +8,7 @@ class ActuatorsApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+
+			}
 
 }
