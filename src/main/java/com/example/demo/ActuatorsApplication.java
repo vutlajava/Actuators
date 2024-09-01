@@ -25,7 +25,7 @@ public class ActuatorsApplication {
 
 	Void added_master1() {
 
-		System.out.println("added by master 1);
+		System.out.println("added by master 1");
 	}
 	
 	
