@@ -12,7 +12,10 @@ public class ActuatorsApplication {
 
 }
 
+void method1_createdby_1001_user() {
 
+		System.out.println("Method created by user 1001 ");
+}
 	
 	
 }
