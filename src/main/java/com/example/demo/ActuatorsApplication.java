@@ -16,6 +16,11 @@ void method1_createdby_1001_user() {
 
 		System.out.println("Method created by user 1001 ");
 }
+
+void method2_createdby_master1() {
+
+	System.out.println(" method added by master user");
+}
 	
 	
 }
