@@ -10,13 +10,12 @@ public class ActuatorsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ActuatorsApplication.class, args);
 
-		System.out.println("Hello Modifed code in master");
-		
-		
-		
-		
-		
-		
+}
+
+	void added_branch_1001() {
+
+		System.out.println("Added a method by add_1001");
+
 	}
 
 	
