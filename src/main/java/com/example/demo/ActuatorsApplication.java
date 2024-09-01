@@ -18,6 +18,15 @@ public class ActuatorsApplication {
 
 	}
 
+	void added_master() {
+
+		System.out.println("added by master");
+	}
+
+	Void added_master1() {
+
+		System.out.println("added by master 1);
+	}
 	
 	
 }
